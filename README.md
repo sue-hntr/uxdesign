@@ -1,2 +1,2 @@
 # uxdesign
-Portfolio for 
+Portfolio for Suzanne's UX design work.
